@@ -2,7 +2,7 @@
 
 💻 I’m a Web Developer and SQA Engineer passionate about building reliable, user-friendly, and high-quality software solutions.
 
-👀 I’m interested in Web Development using ASP.NET, Software Testing, Quality Assurance, and Continuous Improvement.
+👀 I’m interested in Web Development using ASP.NET,React.js,Node.js,MoogoDB,Express, Software Testing, Quality Assurance, and Continuous Improvement.
 
 🤝 I’m looking to collaborate on web development projects, software testing initiatives, and quality assurance activities.
 
